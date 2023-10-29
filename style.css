@@ -91,7 +91,7 @@ body {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            color: white;
+vi            color: white;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             text-transform: uppercase;
             letter-spacing: .4em;
@@ -104,7 +104,7 @@ body {
         background-color: #001F3F;
       }
       100% {
-        background-color: #FF4136;
+        background-color:  #001F3F;
       }
     }
   .logo_img{
@@ -116,7 +116,7 @@ body {
    body {
       animation: pulse 2s infinite;
         /* background-color: #392d69; */
-        background-image: url("t.webp");
+/*         background-image: url("t.webp"); */
         background-blend-mode:multiply;
       
       

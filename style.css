@@ -116,14 +116,14 @@ vi            color: white;
    body {
       animation: pulse 2s infinite;
         /* background-color: #392d69; */
-/*         background-image: url("t.webp"); */
+        background-image: url("t.webp");
         background-blend-mode:multiply;
       
       
     }
      
     .navbar{
-    
+          background:transparent;
         border: 1px solid black;
         min-height: 55px;
         display: flex;
@@ -172,7 +172,7 @@ vi            color: white;
          color: rgb(192, 14, 14);  
       }
       .text h4{
-        font-size: 2rem;
+     
          color: white;
          text-transform: uppercase;
          letter-spacing: .3em;

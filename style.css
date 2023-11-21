@@ -97,6 +97,11 @@ vi            color: white;
             letter-spacing: .4em;
             font-weight:200;
          }
+@media new and (width:1000px){
+        body{
+            background:white;
+        }
+}
          
 @media screen and (max-width: 600px)  {
    @keyframes pulse {
